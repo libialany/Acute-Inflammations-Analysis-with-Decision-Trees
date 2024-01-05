@@ -1,4 +1,5 @@
-![image](https://github.com/prathmeshlonkar10/Acute-Inflammations-Analysis-with-Decision-Trees/assets/66990159/be4be2fb-1bb9-489f-8edf-ee3dd8cd9d7c)
+![image](https://github.com/prathmeshlonkar10/Acute-Inflammations-Analysis-with-Decision-Trees/assets/66990159/c9f3e70c-22ab-4ac8-b7ed-ba6cbe16e3d9)
+
 
 ## Highlight
 Analyzing the Acute Inflammations dataset using the Decision Trees algorithm to understand and perform the presumptive diagnosis of two diseases of the urinary system
